@@ -12,7 +12,7 @@
 ### 2019
 
 1. **Weight Agnostic Neural Networks.**
-*Adam Gaier, David Ha* 2019. [paper](https://arxiv.org/pdf/1906.04358.pdf) [website](https://weightagnostic.github.io/)
+*Adam Gaier, David Ha.* 2019. [paper](https://arxiv.org/pdf/1906.04358.pdf) [website](https://weightagnostic.github.io/)
 
 1. **CNM: An Interpretable Complex-valued Network for Matching.** 
 *Qiuchi Li, Benyou Wang, Massimo Melucci.* NAACL 2019. [paper](https://arxiv.org/pdf/1904.05298.pdf) [code](https://github.com/wabyking/qnn) (Best Explainable NLP Paper)
