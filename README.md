@@ -11,6 +11,9 @@
 
 ### 2019
 
+1. **On the Spectral bias of Neural Networks.**
+*Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred A. Hamprecht, Yoshua Bengio, Aaron Courville.* IMCL 2019. [paper](https://arxiv.org/pdf/1806.08734.pdf) [code]( https://github.com/nasimrahaman/SpectralBias)
+
 1. **Weight Agnostic Neural Networks.**
 *Adam Gaier, David Ha.* 2019. [paper](https://arxiv.org/pdf/1906.04358.pdf) [website](https://weightagnostic.github.io/)
 
