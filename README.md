@@ -63,6 +63,14 @@
     - Arxiv 2018.
     - *Zhiqin John Xu.* 
     - [paper](https://arxiv.org/pdf/1808.04295.pdf)
+    
+    
+### 2016
+
+1. **Benefits of Depth in Neural Networks.**
+    - COLT 2016.
+    - *Matus Telgarsky.*
+    - [paper](https://arxiv.org/pdf/1602.04485.pdf)
 
 ## Machine Learning Theory
 
