@@ -14,13 +14,13 @@
 ### 2019
 
 1. **On the Spectral bias of Neural Networks.**
-    - IMCL 2019.
+    - ICML 2019.
     - *Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred A. Hamprecht, Yoshua Bengio, Aaron Courville.* 
     - [paper](https://arxiv.org/pdf/1806.08734.pdf) 
     - [code](https://github.com/nasimrahaman/SpectralBias)
 
 1. **Complexity of Linear Regions in Deep Networks.**
-    - IMCL 2019.
+    - ICML 2019.
     - *Boris Hanin, David Rolnick.*
     - [paper](https://arxiv.org/pdf/1901.09021.pdf)
 
