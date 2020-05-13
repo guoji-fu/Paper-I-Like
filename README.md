@@ -31,10 +31,10 @@
     - [website](https://weightagnostic.github.io/)
 
 1. **CNM: An Interpretable Complex-valued Network for Matching.** 
-    - ACL 2019.
+    - ACL 2019 (Best Explainable NLP Paper).
     - *Qiuchi Li, Benyou Wang, Massimo Melucci.* 
     - [paper](https://arxiv.org/pdf/1904.05298.pdf) 
-    - [code](https://github.com/wabyking/qnn) (Best Explainable NLP Paper)
+    - [code](https://github.com/wabyking/qnn) 
 
 1. **Attention is not Explanation.**
     - ACL 2019.
@@ -69,7 +69,7 @@
 ### 2019
 
 1. **Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations.**
-    - ICML 2019.
+    - ICML 2019 (Best Paper).
     - *Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain Gelly, Bernhard Schölkopf, Olivier Bachem.*
     - [paper](https://arxiv.org/pdf/1811.12359.pdf) 
-    - [code](https://github.com/google-research/disentanglement_lib) (Best Paper)
+    - [code](https://github.com/google-research/disentanglement_lib) 
