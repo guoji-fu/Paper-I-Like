@@ -84,3 +84,12 @@
     - ESAIM: Probability and Statistics 2005.
     - *Stephane Boucheron, Olivier Bousquet, Gabor Lugosi.*
     - [paper](https://www.esaim-ps.org/articles/ps/pdf/2005/01/ps0420.pdf)
+
+
+## Regularization
+
+1. **Convergence Analysis of Tikhonov Regularization for Non-Linear Statistical Inverse Learning Problems.**
+    - Arxiv 2019.
+    - *Abhishake Rastogi, Gilles Blanchard, Peter Mathé.*
+    - [paper](https://arxiv.org/pdf/1902.05404.pdf)
+    
