@@ -93,3 +93,11 @@
     - *Abhishake Rastogi, Gilles Blanchard, Peter Mathé.*
     - [paper](https://arxiv.org/pdf/1902.05404.pdf)
     
+
+##  Density Estimation
+
+1. **Performance Guarantees for Regularized Maximum Entropy Density Estimation.**
+    - COLT 2004.
+    - *Miroslav Dudık, Steven J. Phillips, and Robert E. Schapire.*
+    - [paper](http://rob.schapire.net/papers/maxent_colt.pdf)
+    
