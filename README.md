@@ -2,16 +2,13 @@
 
 ## Word Embedding
 
-### 2019
-
 1. **Analogies Explained: Towards Understanding Word Embeddings.**
     - ICML 2019.
     - *Carl Allen, Timothy Hospedales.*
     - [paper](https://arxiv.org/pdf/1901.09813.pdf)
 
-## Interpretation of Neural Networks
 
-### 2019
+## Interpretation of Neural Networks
 
 1. **On the Spectral bias of Neural Networks.**
     - ICML 2019.
@@ -47,8 +44,6 @@
     - *Yaoyu Zhang, Zhi-Qin John Xu, Tao Luo, Zheng Ma.*
     - [paper](https://arxiv.org/pdf/1905.10264.pdf)
 
-### 2018
-
 1. **Training behavior of Deep Neural Network in Frequency Domain.**
     - Arxiv 2018.
     - *Zhi-Qin J. Xu, Yaoyu Zhang, Yanyang Xiao.* 
@@ -64,9 +59,6 @@
     - *Zhiqin John Xu.* 
     - [paper](https://arxiv.org/pdf/1808.04295.pdf)
     
-    
-### 2016
-
 1. **Benefits of Depth in Neural Networks.**
     - COLT 2016.
     - *Matus Telgarsky.*
@@ -74,10 +66,16 @@
 
 ## Machine Learning Theory
 
-### 2019
-
 1. **Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations.**
     - ICML 2019 (Best Paper).
     - *Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain Gelly, Bernhard Schölkopf, Olivier Bachem.*
     - [paper](https://arxiv.org/pdf/1811.12359.pdf) 
     - [code](https://github.com/google-research/disentanglement_lib) 
+
+
+## Classification
+
+1. **Theory of Classification: A Survey of Some Recent Advances.**
+    - ESAIM: Probability and Statistics 2005.
+    - *Stephane Boucheron, Olivier Bousquet, Gabor Lugosi.*
+    - [paper](https://www.esaim-ps.org/articles/ps/pdf/2005/01/ps0420.pdf)
