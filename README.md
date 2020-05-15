@@ -2,6 +2,11 @@
 
 ## Word Embedding
 
+1. **On the Dimensionality of Word Embedding.**
+    - NIPS 2018.
+    - *Zi Yin, Yuanyuan Shen*
+    - [paper](https://arxiv.org/pdf/1812.04224.pdf)
+
 1. **Analogies Explained: Towards Understanding Word Embeddings.**
     - ICML 2019.
     - *Carl Allen, Timothy Hospedales.*
