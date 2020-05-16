@@ -1,5 +1,9 @@
 # Papers That I Like
 
+## Stochastic Optimization
+
+
+
 ## Word Embedding
 
 1. **On the Dimensionality of Word Embedding.**
@@ -13,7 +17,7 @@
     - [paper](https://arxiv.org/pdf/1901.09813.pdf)
 
 
-## Interpretation of Neural Networks
+## Neural Networks
 
 1. **On the Spectral bias of Neural Networks.**
     - ICML 2019.
@@ -69,7 +73,8 @@
     - *Matus Telgarsky.*
     - [paper](https://arxiv.org/pdf/1602.04485.pdf)
 
-## Machine Learning Theory
+
+## Unsupervised Learning
 
 1. **Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations.**
     - ICML 2019 (Best Paper).
