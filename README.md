@@ -1,8 +1,13 @@
 # Papers That I Like
 
+## Learning Theory
+
+1. **Algorithmic Stability and Generalization Performance.**
+    - NIPS 2001.
+    - *Olivier Bousquet, Andre Elisseeff.*
+    - [paper](https://papers.nips.cc/paper/1854-algorithmic-stability-and-generalization-performance.pdf)
+
 ## Stochastic Optimization
-
-
 
 ## Word Embedding
 
