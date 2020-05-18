@@ -11,7 +11,7 @@
 ## Kernel and Embedding
 
 1. **Think Globally, Fit Locally Under the Manifold Setup: Asymptotic Analysis of Locally Linear Embedding.**
-    - Annals of Statistics.
+    - Annals of Statistics 2018.
     - *Hau-Tieng Wu, Nan Wu.*
     - [paper](https://projecteuclid.org/download/pdfview_1/euclid.aos/1536631291)
 
