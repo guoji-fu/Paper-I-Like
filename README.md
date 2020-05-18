@@ -7,7 +7,30 @@
     - *Olivier Bousquet, Andre Elisseeff.*
     - [paper](https://papers.nips.cc/paper/1854-algorithmic-stability-and-generalization-performance.pdf)
 
-## Stochastic Optimization
+
+## Kernel and Embedding
+
+1. **Think Globally, Fit Locally Under the Manifold Setup: Asymptotic Analysis of Locally Linear Embedding.**
+    - Annals of Statistics.
+    - *Hau-Tieng Wu, Nan Wu.*
+    - [paper](https://projecteuclid.org/download/pdfview_1/euclid.aos/1536631291)
+
+
+## Margin Theory
+
+1. **Margins of Discrete Bayesian Networks.**
+    - Annals of Statistics 2018.
+    - *Robin J. Evans.*
+    - [paper](https://projecteuclid.org/download/pdfview_1/euclid.aos/1536307228)
+    
+
+## Contractive Learning
+
+1. **Convergence of Contrastive Divergence Algorithm in Exponential Family.**
+    - Annals of Statistics 2018.
+    - *Bai Jiang, Tung-Yu Wu, Yifan Jin, Wing H. Wong.*
+    - [paper](https://projecteuclid.org/download/pdfview_1/euclid.aos/1536307243)
+
 
 ## Word Embedding
 
