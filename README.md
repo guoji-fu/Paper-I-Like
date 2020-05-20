@@ -7,6 +7,15 @@
     - *Olivier Bousquet, Andre Elisseeff.*
     - [paper](https://papers.nips.cc/paper/1854-algorithmic-stability-and-generalization-performance.pdf)
 
+1. **A Generalized Representer Theorem.**
+    - COLT 2001.
+    - *Bernhard Sch¨olkopf, Ralf Herbrich, Alex J. Smola.*
+    - [paper](https://www.cise.ufl.edu/class/cap6617fa15/Readings/SchHerSmo01.pdf)
+
+1. **Stability and Generalization.**
+    - JMLR 2002.
+    - *Olivier Bousquet, Andre Elisseeff.*
+    - [paper](http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf)
 
 ## Kernel and Embedding
 
