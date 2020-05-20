@@ -56,6 +56,36 @@
 
 ## Neural Networks
 
+1. **Benefits of Depth in Neural Networks.**
+    - COLT 2016.
+    - *Matus Telgarsky.*
+    - [paper](https://arxiv.org/pdf/1602.04485.pdf)
+
+1. **Understanding Deep Learning Requires Rethinking Generalization.**
+    - ICLR 2017.
+    - *Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals.*
+    - [paper](https://arxiv.org/pdf/1611.03530.pdf)
+
+1. **Large Margin Deep Networks for Classification.*
+    - NIPS 2018.
+    - *Gamaleldin F. Elsayed, Dilip Krishnan, Hossein Mobahi, Kevin Regan, Samy Bengio.* 
+    - [paper](https://papers.nips.cc/paper/7364-large-margin-deep-networks-for-classification.pdf)
+    
+1. **Training behavior of Deep Neural Network in Frequency Domain.**
+    - Arxiv 2018.
+    - *Zhi-Qin J. Xu, Yaoyu Zhang, Yanyang Xiao.* 
+    - [paper](https://arxiv.org/pdf/1807.01251.pdf)
+
+1. **On the Spectral Bias of Deep Neural Networks.**
+    - Arxiv 2018.
+    - *Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred A. Hamprecht, Yoshua Bengio, Aaron Courville.* 
+    - [paper](https://arxiv.org/pdf/1806.08734.pdf)
+
+1. **Understanding Training and Generalization in Deep Learning by Fourier Analysis.**
+    - Arxiv 2018.
+    - *Zhiqin John Xu.* 
+    - [paper](https://arxiv.org/pdf/1808.04295.pdf)
+
 1. **On the Spectral bias of Neural Networks.**
     - ICML 2019.
     - *Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred A. Hamprecht, Yoshua Bengio, Aaron Courville.* 
@@ -89,26 +119,6 @@
     - Arxiv 2019.
     - *Yaoyu Zhang, Zhi-Qin John Xu, Tao Luo, Zheng Ma.*
     - [paper](https://arxiv.org/pdf/1905.10264.pdf)
-
-1. **Training behavior of Deep Neural Network in Frequency Domain.**
-    - Arxiv 2018.
-    - *Zhi-Qin J. Xu, Yaoyu Zhang, Yanyang Xiao.* 
-    - [paper](https://arxiv.org/pdf/1807.01251.pdf)
-
-1. **On the Spectral Bias of Deep Neural Networks.**
-    - Arxiv 2018.
-    - *Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred A. Hamprecht, Yoshua Bengio, Aaron Courville.* 
-    - [paper](https://arxiv.org/pdf/1806.08734.pdf)
-
-1. **Understanding Training and Generalization in Deep Learning by Fourier Analysis.**
-    - Arxiv 2018.
-    - *Zhiqin John Xu.* 
-    - [paper](https://arxiv.org/pdf/1808.04295.pdf)
-    
-1. **Benefits of Depth in Neural Networks.**
-    - COLT 2016.
-    - *Matus Telgarsky.*
-    - [paper](https://arxiv.org/pdf/1602.04485.pdf)
 
 
 ## Unsupervised Learning
