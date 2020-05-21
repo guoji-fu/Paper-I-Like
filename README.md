@@ -141,7 +141,7 @@
 ## Regularization
 
 1. **Convergence Analysis of Tikhonov Regularization for Non-Linear Statistical Inverse Learning Problems.**
-    - Arxiv 2019.
+    - arXiv 2019.
     - *Abhishake Rastogi, Gilles Blanchard, Peter Mathé.*
     - [paper](https://arxiv.org/pdf/1902.05404.pdf)
     
