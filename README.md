@@ -85,6 +85,11 @@
     - Arxiv 2018.
     - *Zhiqin John Xu.* 
     - [paper](https://arxiv.org/pdf/1808.04295.pdf)
+    
+1. **To Understand Deep Learning We Need to Understand Kernel Learning.**
+    - ICML 2018.
+    - *Mikhail Belkin, Siyuan Ma, Soumik Mandal.*
+    - [paper](https://arxiv.org/pdf/1802.01396.pdf)
 
 1. **On the Spectral bias of Neural Networks.**
     - ICML 2019.
