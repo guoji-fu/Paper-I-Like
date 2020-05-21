@@ -66,7 +66,7 @@
     - *Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals.*
     - [paper](https://arxiv.org/pdf/1611.03530.pdf)
 
-1. **Large Margin Deep Networks for Classification.*
+1. **Large Margin Deep Networks for Classification.**
     - NIPS 2018.
     - *Gamaleldin F. Elsayed, Dilip Krishnan, Hossein Mobahi, Kevin Regan, Samy Bengio.* 
     - [paper](https://papers.nips.cc/paper/7364-large-margin-deep-networks-for-classification.pdf)
