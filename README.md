@@ -1,5 +1,17 @@
 # Papers That I Like
 
+## Contents
+- [Learning Theory](#learning)
+- [Kernel and Regularization](#kernel)
+- [Margin Theory](#margin)
+- [Neural Networks](#nn)
+- [Unsupervised Learning and Contractive Learning](#unsupervised)
+- [Density Estimation](#density)
+- [Word Embedding](#word)
+
+
+<a name="learning" />
+
 ## Learning Theory
 
 1. **Algorithmic Stability and Generalization Performance.**
@@ -16,14 +28,29 @@
     - JMLR 2002.
     - *Olivier Bousquet, Andre Elisseeff.*
     - [paper](http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf)
+    
+1. **Theory of Classification: A Survey of Some Recent Advances.**
+    - ESAIM: Probability and Statistics 2005.
+    - *Stephane Boucheron, Olivier Bousquet, Gabor Lugosi.*
+    - [paper](https://www.esaim-ps.org/articles/ps/pdf/2005/01/ps0420.pdf)
 
-## Kernel and Embedding
+
+<a name="Kernel" />
+
+## Kernel and Regularization
 
 1. **Think Globally, Fit Locally Under the Manifold Setup: Asymptotic Analysis of Locally Linear Embedding.**
     - Annals of Statistics 2018.
     - *Hau-Tieng Wu, Nan Wu.*
     - [paper](https://projecteuclid.org/download/pdfview_1/euclid.aos/1536631291)
 
+1. **Convergence Analysis of Tikhonov Regularization for Non-Linear Statistical Inverse Learning Problems.**
+    - arXiv 2019.
+    - *Abhishake Rastogi, Gilles Blanchard, Peter Mathé.*
+    - [paper](https://arxiv.org/pdf/1902.05404.pdf)
+    
+
+<a name="margin" />
 
 ## Margin Theory
 
@@ -31,28 +58,9 @@
     - Annals of Statistics 2018.
     - *Robin J. Evans.*
     - [paper](https://projecteuclid.org/download/pdfview_1/euclid.aos/1536307228)
-    
-
-## Contractive Learning
-
-1. **Convergence of Contrastive Divergence Algorithm in Exponential Family.**
-    - Annals of Statistics 2018.
-    - *Bai Jiang, Tung-Yu Wu, Yifan Jin, Wing H. Wong.*
-    - [paper](https://projecteuclid.org/download/pdfview_1/euclid.aos/1536307243)
 
 
-## Word Embedding
-
-1. **On the Dimensionality of Word Embedding.**
-    - NIPS 2018.
-    - *Zi Yin, Yuanyuan Shen*
-    - [paper](https://arxiv.org/pdf/1812.04224.pdf)
-
-1. **Analogies Explained: Towards Understanding Word Embeddings.**
-    - ICML 2019.
-    - *Carl Allen, Timothy Hospedales.*
-    - [paper](https://arxiv.org/pdf/1901.09813.pdf)
-
+<a name="nn" />
 
 ## Neural Networks
 
@@ -126,30 +134,23 @@
     - [paper](https://arxiv.org/pdf/1905.10264.pdf)
 
 
-## Unsupervised Learning
+<a name="unsupervised" />
+
+## Unsupervised Learning and Contractive Learning
+
+1. **Convergence of Contrastive Divergence Algorithm in Exponential Family.**
+    - Annals of Statistics 2018.
+    - *Bai Jiang, Tung-Yu Wu, Yifan Jin, Wing H. Wong.*
+    - [paper](https://projecteuclid.org/download/pdfview_1/euclid.aos/1536307243)
 
 1. **Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations.**
     - ICML 2019 (Best Paper).
     - *Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain Gelly, Bernhard Schölkopf, Olivier Bachem.*
     - [paper](https://arxiv.org/pdf/1811.12359.pdf) 
     - [code](https://github.com/google-research/disentanglement_lib) 
-
-
-## Classification
-
-1. **Theory of Classification: A Survey of Some Recent Advances.**
-    - ESAIM: Probability and Statistics 2005.
-    - *Stephane Boucheron, Olivier Bousquet, Gabor Lugosi.*
-    - [paper](https://www.esaim-ps.org/articles/ps/pdf/2005/01/ps0420.pdf)
-
-
-## Regularization
-
-1. **Convergence Analysis of Tikhonov Regularization for Non-Linear Statistical Inverse Learning Problems.**
-    - arXiv 2019.
-    - *Abhishake Rastogi, Gilles Blanchard, Peter Mathé.*
-    - [paper](https://arxiv.org/pdf/1902.05404.pdf)
     
+
+<a name="density" />
 
 ##  Density Estimation
 
@@ -158,3 +159,17 @@
     - *Miroslav Dudık, Steven J. Phillips, and Robert E. Schapire.*
     - [paper](http://rob.schapire.net/papers/maxent_colt.pdf)
     
+
+<a name="word" />
+
+## Word Embedding
+
+1. **On the Dimensionality of Word Embedding.**
+    - NIPS 2018.
+    - *Zi Yin, Yuanyuan Shen*
+    - [paper](https://arxiv.org/pdf/1812.04224.pdf)
+
+1. **Analogies Explained: Towards Understanding Word Embeddings.**
+    - ICML 2019.
+    - *Carl Allen, Timothy Hospedales.*
+    - [paper](https://arxiv.org/pdf/1901.09813.pdf)
