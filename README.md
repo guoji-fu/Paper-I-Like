@@ -1,5 +1,5 @@
 # Papers That I Like
-A collection of interesting papers I read in some machine learning topics.
+A collection of interesting papers that I read in some machine learning topics (keep updating).
 
 ## Contents
 - [Learning Theory](#learning)
