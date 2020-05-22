@@ -80,7 +80,7 @@ A collection of interesting papers that I read in some machine learning topics (
     - *Gamaleldin F. Elsayed, Dilip Krishnan, Hossein Mobahi, Kevin Regan, Samy Bengio.* 
     - [paper](https://papers.nips.cc/paper/7364-large-margin-deep-networks-for-classification.pdf)
     
-1. **Training behavior of Deep Neural Network in Frequency Domain.**
+1. **Training Behavior of Deep Neural Network in Frequency Domain.**
     - arXiv 2018.
     - *Zhi-Qin J. Xu, Yaoyu Zhang, Yanyang Xiao.* 
     - [paper](https://arxiv.org/pdf/1807.01251.pdf)
@@ -100,7 +100,7 @@ A collection of interesting papers that I read in some machine learning topics (
     - *Mikhail Belkin, Siyuan Ma, Soumik Mandal.*
     - [paper](https://arxiv.org/pdf/1802.01396.pdf)
 
-1. **On the Spectral bias of Neural Networks.**
+1. **On the Spectral Bias of Neural Networks.**
     - ICML 2019.
     - *Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred A. Hamprecht, Yoshua Bengio, Aaron Courville.* 
     - [paper](https://arxiv.org/pdf/1806.08734.pdf) 
