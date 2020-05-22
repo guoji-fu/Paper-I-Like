@@ -81,17 +81,17 @@ A collection of interesting papers that I read in some machine learning topics (
     - [paper](https://papers.nips.cc/paper/7364-large-margin-deep-networks-for-classification.pdf)
     
 1. **Training behavior of Deep Neural Network in Frequency Domain.**
-    - Arxiv 2018.
+    - arXiv 2018.
     - *Zhi-Qin J. Xu, Yaoyu Zhang, Yanyang Xiao.* 
     - [paper](https://arxiv.org/pdf/1807.01251.pdf)
 
 1. **On the Spectral Bias of Deep Neural Networks.**
-    - Arxiv 2018.
+    - arXiv 2018.
     - *Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred A. Hamprecht, Yoshua Bengio, Aaron Courville.* 
     - [paper](https://arxiv.org/pdf/1806.08734.pdf)
 
 1. **Understanding Training and Generalization in Deep Learning by Fourier Analysis.**
-    - Arxiv 2018.
+    - arXiv 2018.
     - *Zhiqin John Xu.* 
     - [paper](https://arxiv.org/pdf/1808.04295.pdf)
     
@@ -130,7 +130,7 @@ A collection of interesting papers that I read in some machine learning topics (
     - [code](https://github.com/successar/AttentionExplanation)
 
 1. **Explicitizing an Implicit Bias of the Frequency Principle in Two-layer Neural Networks.**
-    - Arxiv 2019.
+    - arXiv 2019.
     - *Yaoyu Zhang, Zhi-Qin John Xu, Tao Luo, Zheng Ma.*
     - [paper](https://arxiv.org/pdf/1905.10264.pdf)
 
