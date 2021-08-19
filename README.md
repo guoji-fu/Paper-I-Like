@@ -9,6 +9,7 @@ A collection of interesting papers that I read in some machine learning topics (
 - [Unsupervised Learning and Contractive Learning](#unsupervised)
 - [Density Estimation](#density)
 - [Word Embedding](#word)
+- [Out of Distribution Generalization](#OOD)
 
 
 <a name="learning" />
@@ -174,3 +175,18 @@ A collection of interesting papers that I read in some machine learning topics (
     - ICML 2019.
     - *Carl Allen, Timothy Hospedales.*
     - [paper](https://arxiv.org/pdf/1901.09813.pdf)
+
+<a name="ood" />
+              
+## Out of Distribution Generalization
+
+1. **Invariant Risk Minimization.**
+    - arXiv 2020.
+    - *Martin Arjovsky, L´eon Bottou, Ishaan Gulrajani, David Lopez-Paz.*
+    - [paper](https://arxiv.org/pdf/1907.02893.pdf)
+
+1. **Heterogeneous Risk Minimization.**
+    - ICML 2021.
+    - *Jiashuo Liu, Zheyuan Hu, Peng Cui, Bo Li, Zheyan Shen.*
+    - [paper](https://arxiv.org/pdf/2105.03818.pdf)
+       
